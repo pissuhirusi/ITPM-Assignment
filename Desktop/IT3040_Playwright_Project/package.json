@@ -1,0 +1,23 @@
+{
+  "name": "it3040-playwright-assignment",
+  "version": "1.0.0",
+  "description": "- Playwright (JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.58.0",
+    "playwright-core": "^1.58.0"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0"
+  }
+}
