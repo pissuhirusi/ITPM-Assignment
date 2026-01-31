@@ -23,7 +23,7 @@ test.describe('SwiftTranslator Automation Tests', () => {
     'oya Zoom meeting ekata yanavaadaa?',
     'mata WhatsApp ekak yawanawaa', 
 
-    'mama gedhara   yanavaa', 
+    'mama dhaen vaeda karanavaa.',
     'mama gedara yanawaa, eyaa passe innawa',
 
     'ela machan! hondai supiri!',
@@ -41,7 +41,9 @@ test.describe('SwiftTranslator Automation Tests', () => {
     'api ihalin karanna, eyaa passe balamu',
 
     'api Galle trip ekak yamu',
-    'mata 2 kg bath oonee', 
+    'mata 2 kg bath oonee',
+    'Rs. 5343',
+     
   ];
 
   positiveScenarios.forEach((input, index) => {
@@ -74,7 +76,8 @@ test.describe('SwiftTranslator Automation Tests', () => {
     '???', 
     '      ',
     'CPU RAM ROM',
-    '😂😂😂'
+    '😂😂😂',
+    'mama gedhara    yanavaa',
   ];
 
   negativeScenarios.forEach((input, index) => {
